@@ -18,7 +18,6 @@ export const InputValue = styled.input.attrs({ type: "number" })`
   &::-webkit-inner-spin-button {
     -webkit-appearance: none; 
   }
-}
 `
 export const InputPg = styled.input.attrs({ type: "radio" })`
   padding: 5px 10px;
